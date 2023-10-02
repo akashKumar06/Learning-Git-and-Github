@@ -12,6 +12,13 @@ h1{
     font-style: italic;
     background-color:bisque;
 }
+
 h2{
+    margin-top: 1rem;
     background-color: wheat;
+}
+p{
+    padding:1rem;
+    font-style: italic;
+    background-color: chocolate;
 }
